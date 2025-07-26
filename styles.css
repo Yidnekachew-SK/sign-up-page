@@ -1,0 +1,16 @@
+
+
+.content{
+	display: flex;
+}
+
+.side-content{
+	width: 30%;
+	height: 100vh;
+}
+
+.main-content{
+	width: 70%;
+	height: 100vh;
+	float: right;
+}
